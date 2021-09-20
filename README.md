@@ -1,4 +1,4 @@
-# Entrînement avec bootstrap
+# Entraînement avec bootstrap
 _NETFLIX PROJECT_
 
 ## Mission 
